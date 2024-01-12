@@ -12,4 +12,5 @@ func main() {
 	gabaiVol1.author = "Yoshichi Shimada"
 	gabaiVol1.name = "Gabai Volume 1"
 	fmt.Printf("%+v\n", gabaiVol1)
+	fmt.Println(Manga{"foo", "bar"})
 }
