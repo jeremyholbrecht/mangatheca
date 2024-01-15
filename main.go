@@ -17,4 +17,6 @@ func main() {
 	crowsVolume1 := Manga{"Crows", "Hiroshi Takahashi"}
 	fmt.Println(crowsVolume1)
 	fmt.Println(crowsVolume1.author)
+	fmt.Println(crowsVolume1.name)
+
 }
