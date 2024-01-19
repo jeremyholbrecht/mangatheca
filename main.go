@@ -22,5 +22,6 @@ func main() {
 	fmt.Println(crowsVolume1.author)
 	fmt.Println(crowsVolume1.name)
 	fmt.Println(crowsVolume2.name)
+	fmt.Println(crowsVolume2.author)
 
 }
