@@ -17,15 +17,4 @@ func main() {
 	fmt.Println(gabaiVol1.author)
 	fmt.Println(gabaiVol1.name)
 	fmt.Println(gabaiVol1.author)
-
-	crowsVolume1 := Manga{"Crows", "Hiroshi Takahashi"}
-	crowsVolume2 := Manga{"Crows", "Hiroshi Takahashi"}
-	fmt.Println(crowsVolume1)
-	fmt.Println(crowsVolume1.author)
-	fmt.Println(crowsVolume1.name)
-	fmt.Println(crowsVolume2.name)
-	fmt.Println(crowsVolume2.author)
-	fmt.Println(crowsVolume2.name)
-	fmt.Println(crowsVolume2.author)
-
 }
