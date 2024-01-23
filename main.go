@@ -13,8 +13,4 @@ func main() {
 	gabaiVol1.name = "Gabai Volume 1"
 	fmt.Printf("%+v\n", gabaiVol1)
 	fmt.Println(Manga{"foo", "bar"})
-	fmt.Println(gabaiVol1.name)
-	fmt.Println(gabaiVol1.author)
-	fmt.Println(gabaiVol1.name)
-	fmt.Println(gabaiVol1.author)
 }
