@@ -10,4 +10,5 @@ type Manga struct {
 func main() {
 	gabaivol1 := Manga{name: "foo", author: "bar"}
 	fmt.Println(gabaivol1)
+	fmt.Println(gabaivol1.name)
 }
